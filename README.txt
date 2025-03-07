@@ -1,4 +1,4 @@
-IMPORTANT ---> This is a project study, with the goal to understand and using a real world GAN architecture. The origininal paper is at this link https://arxiv.org/abs/1812.02288 .
+IMPORTANT ---> This is a project study, with the goal to understand and using a real world GAN architecture. The original paper is at this link https://arxiv.org/abs/1812.02288 .
 
 1 ---> In the script folder, there are two Python scripts used locally for data preparation, which are then passed to the Google Cloud infrastructure - Colab, where I performed model training and testing.
 
